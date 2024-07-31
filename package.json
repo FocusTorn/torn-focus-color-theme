@@ -1,0 +1,22 @@
+{
+  "name": "torn-focus-color-theme",
+  "displayName": "Torn Focus Color Theme",
+  "description": "Dark theme based on Dark Modern",
+  "publisher": "NewRealityDesigns",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Torn Focus Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Torn Focus Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
